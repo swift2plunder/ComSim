@@ -1,0 +1,5 @@
+The intent of this project is to extract, sanitize and publish the minimum amount of code necessary to build a working combat simulator for To Boldly Go, a SciFi themed play by web microgame describe at the following URI:
+
+    http://tbg.asciiking.com
+
+If you use this code to build a combat simulator and you share that simulator with other users, you are required to share back your code with the TBG community by contributing to this project. For exceptions to this license, please contact the current TBG maintainer, Chris Babcock <tbg-moderator@asciiking.com>. 
